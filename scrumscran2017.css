@@ -263,7 +263,7 @@ word-spacing: 2px;
 #footer {text-align: left;}
 body {
 color: #696969;
-background: #FFFFFF url('https://cdn.rawgit.com/scrumptiousscran/foodblog/4d26a56c/Scrummy-Background.jpg') top left;
+background: #dbdbdb url('https://cdn.rawgit.com/scrumptiousscran/foodblog/4d26a56c/Scrummy-Background.jpg') top left;
 padding: 0;; font-style:normal; font-variant:normal; font-weight:normal; font-size:12px; font-family:Arial, Helvetica, sans-serif
 }
 html body .region-inner {
@@ -292,7 +292,7 @@ position: absolute;
 z-index: 1;
 height: 400px;
 width: 100%;
-background: #FFFFFF url('https://cdn.rawgit.com/scrumptiousscran/foodblog/4d26a56c/Scrummy-Background.jpg') top left;
+background: #dbdbdb url('https://cdn.rawgit.com/scrumptiousscran/foodblog/4d26a56c/Scrummy-Background.jpg') top left;
 }
 .body-fauxcolumn-outer .cap-top .cap-left {
 width: 100%;
